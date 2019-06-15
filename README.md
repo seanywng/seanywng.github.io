@@ -1,3 +1,3 @@
-# Intro R Workshop
+# Personal Website
 
-[View the website here](https://clanfear.github.io/Intro_R_Workshop/)
+[View the website here](https://clanfear.github.io/)

@@ -1,6 +1,6 @@
-title: 'UW CSSS508'
-description: "Course website for CSSS508: Introduction to R for Social Scientists"
-logo: 'https://raw.githubusercontent.com/clanfear/CSSS508/master/docs/img/csss_white.png'
+title: 'Charles C. Lanfear'
+description: "Personal website for Charles C. Lanfear"
+logo: 'https://clanfear.github.io/img/circle_headshot_small.png'
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
