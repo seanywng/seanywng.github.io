@@ -8,7 +8,7 @@ I approach this topic with methods from demography, computational social science
 causal inference. I also teach programming for data analysis with R and quantitative
 research methods. I am a committed advocate for reproducible research. 
 
-[See my CV for my research and teaching.](https://clanfear.github.io/ccl_cv/cv_one_column.html)
+[See my CV for my research and teaching.](https://clanfear.github.io/ccl_cv/cv_paged_one_column/cv_one_column_paged.html)
 
 [Or you can skip straight to my R course.](https://clanfear.github.io/CSSS508/)
 
