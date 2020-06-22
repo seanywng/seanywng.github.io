@@ -10,6 +10,9 @@ research methods. I am a committed advocate for reproducible research.
 
 [See my CV for my research and teaching.](https://clanfear.github.io/ccl_cv/cv_paged_one_column/cv_one_column_paged.html)
 
-[Or you can skip straight to my R course.](https://clanfear.github.io/CSSS508/)
+Or take a look at my courses:
+
+* [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/)
+* [Criminology](https://clanfear.github.io/SOC371)
 
 Look to the links on the left if you'd like to contact me.
