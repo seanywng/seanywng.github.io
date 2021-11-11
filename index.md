@@ -11,7 +11,7 @@ layout: default
 
  [Link to Portfolio](https://www.dropbox.com/sh/hfgon5s13qin98b/AACmgu_uGrpWaAjWwJy9rnJRa?dl=0)
 
- [contact me](seanywng@gmail.com)
+ [contact](seanywng@gmail.com)
 
 
 </div>
