@@ -1,7 +1,20 @@
 ---
 layout: default
 ---
+
 <div class="row" style="padding-top: 30px;">
+<div class="col-sm-3">
+
+
+<a href = "https://www.dropbox.com/sh/hfgon5s13qin98b/AACmgu_uGrpWaAjWwJy9rnJRa?dl=0">
+![](img/logo_sean.png)
+
+ [Link to Portfolio](https://www.dropbox.com/sh/hfgon5s13qin98b/AACmgu_uGrpWaAjWwJy9rnJRa?dl=0)
+
+ [contact me](seanywng@gmail.com)
+
+
+</div>
 <div class="col-sm-9">
 
 # **Sean Ng**
@@ -15,19 +28,8 @@ I am a committed advocate of data transparency and inter-agency sharing in human
 
 This site hosts some of my current projects, such as: 
 
-</div>
-<div class="col-sm-3">
-
-
-<br/>
-<br/>
 <br/>
 
-<a href = "https://www.dropbox.com/sh/hfgon5s13qin98b/AACmgu_uGrpWaAjWwJy9rnJRa?dl=0">
-![](img/logo_sean.png)
 
-#### [Link to Portfolio](https://www.dropbox.com/sh/hfgon5s13qin98b/AACmgu_uGrpWaAjWwJy9rnJRa?dl=0)
-
-#### [contact me](seanywng@gmail.com)
-
+#### [5W Cleaning and Reporting](https://seanywng.github.io/5W/)
 
