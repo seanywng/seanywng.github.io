@@ -25,7 +25,7 @@ layout: default
 
 I am a Disaster Management Expert and Data Analyst with a strong track record of advisory services, quality assurance and effective programme management in large-scale Emergency, Recovery and National Development Programmes. I have worked in emergencies in Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh and Venezuela. 
 
-I have more than 10 years of expertise in (according to the approximate amount of time spent): 
+I have more than 10 years of expertise in (according to approximate amount of time): 
 Analytics & Research [19.2%]; Data Processing [18.5%]; Policy & Planning [18.4%]; Leadership & Capacity Building [17.9%]; Quality Assurance [16.8%]; and Coordination & Negotiation [9.2%].
 
 I am a committed advocate of data transparency and inter-agency sharing in humanitarian and development settings. 
@@ -39,4 +39,16 @@ This site hosts some of my R projects, such as:
 <br>
 
 #### [Coverage and Gaps Analysis -- Multi-Cluster, Venezuela](https://seanywng.github.io/coverage_gaps_venezuela/)
+<br>
+
+And some links to past work (only PDFs available): 
+
+#### [• A New Index of Refugee Protection 2018 -- a discussion note with Aldo Benini](http://aldo-benini.org/Level2/HumanitData/Benini_Ng__A_New_Protection_Index__180806.pdf)
+
+#### [• Lessons Learnt on Assessments from the Rohingya Refugee Response 2018](https://www.dropbox.com/home/Portfolio?preview=Lessons+Learnt+on+Assessments+180525_SN.pdf)
+
+#### [• Vulnerability in Myanmar 2017 -- Secondary Data Review, Countrywide](https://www.dropbox.com/home/Portfolio?preview=Vulnerability_in_Myanmar_HARP-MIMU_Jun2018_ENG_Print_version.pdf)
+
+#### [• Myanmar National Recovery Framework and Plan -- Floods and Landslides 2015](https://www.dropbox.com/home/Portfolio?preview=National+Recovery+Framework+Final-2.pdf)
+
 
