@@ -11,9 +11,8 @@ layout: default
 <a href = "https://www.dropbox.com/sh/hfgon5s13qin98b/AACmgu_uGrpWaAjWwJy9rnJRa?dl=0">
 ![](img/logo_sean.png)
 
- [Link to Portfolio](https://www.dropbox.com/sh/hfgon5s13qin98b/AACmgu_uGrpWaAjWwJy9rnJRa?dl=0)
 
- [contact](seanywng@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[contact](mailto:seanywng@gmail.com)
 
 
 </div>
@@ -34,11 +33,10 @@ This site hosts some of my R projects, such as:
 
 <br/>
 
-
-#### [5W Cleaning and Reporting -- Education Cluster, Venezuela](https://seanywng.github.io/5W/)
+#### [Coverage and Gaps Analysis -- Multi-Cluster, Venezuela](https://seanywng.github.io/coverage_gaps_venezuela/)
 <br>
 
-#### [Coverage and Gaps Analysis -- Multi-Cluster, Venezuela](https://seanywng.github.io/coverage_gaps_venezuela/)
+#### [5W Cleaning and Reporting -- Education Cluster, Venezuela](https://seanywng.github.io/5W/)
 <br>
 
 And some links to past work (only PDFs available): 
