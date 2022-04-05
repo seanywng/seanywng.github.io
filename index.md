@@ -24,23 +24,22 @@ layout: default
 
 I am a Disaster Management Expert and Data Analyst with a strong track record of advisory services, quality assurance and effective programme management in large-scale Emergency, Recovery and National Development Programmes. I have worked in emergencies in Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh and Venezuela. 
 
-I have more than 10 years of expertise in (according to approximate amount of time): 
+I have more than 11 years of experience in (according to approximate amount of time): 
 Analytics & Research [19.2%]; Data Processing [18.5%]; Policy & Planning [18.4%]; Leadership & Capacity Building [17.9%]; Quality Assurance [16.8%]; and Coordination & Negotiation [9.2%].
 
-I am a committed advocate of data transparency and inter-agency sharing in humanitarian and development settings. 
+Committed advocate of data transparency and inter-agency sharing in humanitarian and development settings. 
 
 This site hosts some of my R projects, such as: 
 
 <br/>
 
-##### [Coverage and Gaps Analysis -- Multi-Cluster, Venezuela](https://seanywng.github.io/coverage_gaps_venezuela/)
-<br>
-
 ##### [Exploratory Data Analysis of the ACLED Conflict Dataset -- Food Security Cluster Myanmar](https://food-security-cluster-myanmar.github.io/exploratory-data-analysis-acled-fsc/)
-<br>
 
 ##### [Initial Observations on 2021 5Ws -- Food Security Cluster Myanmar](https://food-security-cluster-myanmar.github.io/mmr_5w_initial_observations/)
-<br>
+
+##### [Notes on Township Prioritisation -- Food Security Cluster Myanmar](https://food-security-cluster-myanmar.github.io/fsc_mmr_prioritisation/)
+
+##### [Coverage and Gaps Analysis -- Multi-Cluster, Venezuela](https://seanywng.github.io/coverage_gaps_venezuela/)
 
 ##### [5W Cleaning and Reporting -- Education Cluster, Venezuela](https://seanywng.github.io/5W/)
 <br>
