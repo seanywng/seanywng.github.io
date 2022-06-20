@@ -47,9 +47,7 @@ This site hosts some of my projects:
 
 ##### [DRAFT Prioritsation and Beneficiary Profile -- Food Security Cluster Myanmar](https://food-security-cluster-myanmar.github.io/fsc_mmr_prioritisation/)
 
-##### [Initial Observations on 2021 5Ws -- Food Security Cluster Myanmar](https://food-security-cluster-myanmar.github.io/mmr_5w_initial_observations/)
-
-##### [Township Prioritisation and Beneficiary Profile -- Food Security Cluster Myanmar](https://food-security-cluster-myanmar.github.io/fsc_mmr_prioritisation/)
+##### [Report and Analysis of 2022 5Ws -- Food Security Cluster Myanmar](https://food-security-cluster-myanmar.github.io/fsc_5ws_first_quarter_2022/)
 
 ##### [Coverage and Gaps Analysis -- Multi-Cluster, Venezuela](https://seanywng.github.io/coverage_gaps_venezuela/)
 
