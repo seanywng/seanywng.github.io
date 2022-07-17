@@ -12,7 +12,8 @@ layout: default
 ![](img/logo_sean.png)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[contact](mailto:seanywng@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[contact](mailto:seanywng@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github](https://github.com/seanywng)
 
 
 </div>
@@ -24,18 +25,18 @@ layout: default
 
 <br>
 
-Data Analyst and Disaster Management Expert. Conflict, Refugee crises, Complex emergencies. Natural disasters. 
+Data analyst and disaster management expert.  Conflict, complex emergencies and natural disasters.  
 
 Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh and Venezuela.
 
 11 years of expertise in: 
 
-* Analytics and Research (19% of time spent), 
-* Data Cleaning and Pre-processing (19%), 
-* Planning (18%), 
-* Capacity Building (18%),
-* Quality Assurance (17%) 
-* Coordination and Negotiation (9%).
+* Analytics and research (19% of time spent), 
+* Data management and pre-processing  (19%), 
+* Design, monitoring and evaluation (18%), 
+* Capacity building (18%),
+* Quality assurance (17%) 
+* Coordination and negotiation (9%).
 
 <br> 
 
@@ -43,25 +44,60 @@ This site hosts some of my projects:
 
 <br>
 
-##### [Exploratory Data Analysis of the ACLED Conflict Dataset -- Food Security Cluster Myanmar](https://food-security-cluster-myanmar.github.io/exploratory-data-analysis-acled-fsc/)
+### [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
+1 June 2022. 
 
-##### [DRAFT Prioritsation and Beneficiary Profile -- Food Security Cluster Myanmar](https://food-security-cluster-myanmar.github.io/fsc_mmr_prioritisation/)
+[![./img/township_prioritisation.png](./img/township_prioritisation.png)](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/){width=50%}
 
-##### [Report and Analysis of 2022 5Ws -- Food Security Cluster Myanmar](https://food-security-cluster-myanmar.github.io/fsc_5ws_first_quarter_2022/)
+<br><br><br>
 
-##### [Coverage and Gaps Analysis -- Multi-Cluster, Venezuela](https://seanywng.github.io/coverage_gaps_venezuela/)
+### [Understanding Conflict Dynamics in Myanmar through Conflict and Incident Data: A Food Security Perspective](https://food-security-cluster-myanmar.github.io/exploratory-data-analysis-acled-fsc/)
+Updated 1 June 2022. 
 
-##### [5W Cleaning and Reporting -- Education Cluster, Venezuela](https://seanywng.github.io/5W/)
-<br>
+[![./img/event_type_2022.gif](./img/event_type_2022.gif)](https://food-security-cluster-myanmar.github.io/exploratory-data-analysis-acled-fsc/){width=30%}
+
+<br><br><br>
+
+### [Report on the 2022/Q1 Food Security 5Ws](https://food-security-cluster-myanmar.github.io/fsc_5ws_first_quarter_2022/)
+[PDF version](https://www.dropbox.com/s/ibswwmfhjpp9odh/fsc_2022_q1_5ws_report.pdf?dl=0)
+
+[![./img/q1_2022.png](./img/q1_2022.png)](https://food-security-cluster-myanmar.github.io/fsc_5ws_first_quarter_2022/){width=50%}
+
+<br><br><br>
+
+### [Coverage and Gaps Analysis -- Education, Health, Nutrition, Protection and WASH Clusters, Venezuela](https://seanywng.github.io/coverage_gaps_venezuela/)
+
+[![./img/coverage_and_gaps.png](./img/coverage_and_gaps.png)](https://seanywng.github.io/coverage_gaps_venezuela/){width=50%}
+
+<br><br><br>
+
+### [5W Cleaning and Reporting Script -- Education Cluster, Venezuela](https://seanywng.github.io/5W/)
+
+[![./img/cleaning_and_reporting.png](./img/cleaning_and_reporting.png)](https://seanywng.github.io/5W/){width=50%}
+
+<br><br><br>
 
 And some links to past work (only PDFs available): 
 
-##### [• A New Index of Refugee Protection 2018 -- a discussion note with Aldo Benini](http://aldo-benini.org/Level2/HumanitData/Benini_Ng__A_New_Protection_Index__180806.pdf)
+### [A New Index of Refugee Protection 2018 -- a discussion note with Aldo Benini](http://aldo-benini.org/Level2/HumanitData/Benini_Ng__A_New_Protection_Index__180806.pdf)
 
-##### [• Lessons Learnt on Assessments from the Rohingya Refugee Response 2018](https://www.dropbox.com/s/z859umvx6kmikm5/Lessons Learnt on Assessments 180525_SN.pdf?dl=0)
+[![./img/protection_index.png](./img/protection_index.png)](http://aldo-benini.org/Level2/HumanitData/Benini_Ng__A_New_Protection_Index__180806.pdf){width=50%}
 
-##### [• Vulnerability in Myanmar 2017 -- Secondary Data Review, Countrywide](https://themimu.info/sites/themimu.info/files/documents/Report_Vulnerability_in_Myanmar_HARP-MIMU_Jun2018_ENG_Print_version.pdf)
+<br><br><br>
 
-##### [• Myanmar National Recovery Framework and Plan -- Floods and Landslides 2015](https://www.dropbox.com/s/iv975x39hzz9cye/National Recovery Framework Final-2.pdf?dl=0)
+### [Lessons Learnt on Assessments from the Rohingya Refugee Response 2018](https://www.dropbox.com/s/z859umvx6kmikm5/Lessons Learnt on Assessments 180525_SN.pdf?dl=0)
 
+[![./img/lessons_learnt.png](./img/lessons_learnt.png)](https://www.dropbox.com/s/z859umvx6kmikm5/Lessons Learnt on Assessments 180525_SN.pdf?dl=){width=50%}
+
+<br><br><br>
+
+### [Vulnerability in Myanmar 2017 -- Secondary Data Review, Countrywide](https://themimu.info/sites/themimu.info/files/documents/Report_Vulnerability_in_Myanmar_HARP-MIMU_Jun2018_ENG_Print_version.pdf)
+
+[![./img/vulnerability_in_myanmar.png](./img/vulnerability_in_myanmar.png)](https://themimu.info/sites/themimu.info/files/documents/Report_Vulnerability_in_Myanmar_HARP-MIMU_Jun2018_ENG_Print_version.pdf){width=50%}
+
+<br><br><br>
+
+### [Myanmar National Recovery Framework and Plan -- Floods and Landslides 2015](https://www.dropbox.com/s/iv975x39hzz9cye/National Recovery Framework Final-2.pdf?dl=0)
+
+[![./img/national_recovery_framework.png](./img/national_recovery_framework.png)](https://www.dropbox.com/s/iv975x39hzz9cye/National Recovery Framework Final-2.pdf?dl=0){width=50%}
 
