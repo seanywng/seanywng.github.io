@@ -25,11 +25,11 @@ layout: default
 
 <br>
 
-Data analyst and disaster management expert.  Conflict, complex emergencies and natural disasters.  
+Data analyst and disaster management expert.  Armed conflict, complex emergencies and natural hazards.  
 
-Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh and Venezuela.
+Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh, El Salvador and Venezuela.
 
-11 years of expertise in: 
+12 years of expertise in: 
 
 * Analytics and research (19% of time spent), 
 * Data management and pre-processing  (19%), 
