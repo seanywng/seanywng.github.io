@@ -29,18 +29,7 @@ Data analyst and disaster management expert.  Armed conflict, complex emergencie
 
 Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh, El Salvador and Venezuela.
 
-12 years of expertise in: 
-
-* Analytics and research (19% of time spent), 
-* Data management and pre-processing  (19%), 
-* Design, monitoring and evaluation (18%), 
-* Capacity building (18%),
-* Quality assurance (17%) 
-* Coordination and negotiation (9%).
-
-<br> 
-
-This site hosts some of my projects: 
+This site hosts some of my projects, in reverse chronological order: 
 
 <br>
 
