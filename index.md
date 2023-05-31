@@ -25,13 +25,20 @@ layout: default
 
 <br>
 
-Data analyst and disaster management expert.  Armed conflict, complex emergencies and natural hazards.  
+Data analyst and disaster management expert. Armed conflict, complex emergencies and natural hazards.  
 
-Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh, El Salvador and Venezuela.
+Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh, El Salvador, Venezuela and Syria.
 
 This site hosts some of my projects, in reverse chronological order: 
 
-<br>
+<br><br><br>
+
+### [Multi-sector Fair Allocation and Cash-based Response](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1) 
+19 May 2023
+
+[![./img/reached_map_admin4.png](./img/reached_map_admin4.png)](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1){width=50%}
+
+<br><br><br>
 
 ### [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
 1 June 2022. 
