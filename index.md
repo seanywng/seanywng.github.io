@@ -33,7 +33,7 @@ This site hosts some of my projects, in reverse chronological order:
 
 <br><br><br>
 
-### [Multi-sector Fair Allocation and Cash-based Response](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1) 
+### [Multi-sector Beneficiary Allocations and Cash-based Response](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1) 
 19 May 2023
 
 [![./img/reached_map_admin4.png](./img/reached_map_admin4.png)](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1){width=50%}
