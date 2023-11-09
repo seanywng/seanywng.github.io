@@ -29,16 +29,10 @@ Data analyst and disaster management expert. Armed conflict, complex emergencies
 
 Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh, El Salvador, Venezuela and Syria.
 
-This site hosts some of my projects, in reverse chronological order: 
+This site hosts some of my projects: 
 
 <br><br><br>
 
-### [Multi-sector Beneficiary Allocations and Cash-based Response](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1) 
-19 May 2023
-
-[![./img/reached_map_admin4.png](./img/reached_map_admin4.png)](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1){width=50%}
-
-<br><br><br>
 
 ### [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
 1 June 2022. 
@@ -58,6 +52,13 @@ Updated 1 June 2022.
 [PDF version](https://www.dropbox.com/s/ibswwmfhjpp9odh/fsc_2022_q1_5ws_report.pdf?dl=0)
 
 [![./img/q1_2022.png](./img/q1_2022.png)](https://food-security-cluster-myanmar.github.io/fsc_5ws_first_quarter_2022/){width=50%}
+
+<br><br><br>
+
+### [Multi-sector Beneficiary Allocations and Cash-based Response](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1) 
+19 May 2023
+
+[![./img/skew_tree.png](./img/skew_tree.png)](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1){width=50%}
 
 <br><br><br>
 
