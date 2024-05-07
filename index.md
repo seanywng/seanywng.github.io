@@ -27,7 +27,7 @@ layout: default
 
 Data analyst and disaster management expert. Armed conflict, complex emergencies and natural hazards.  
 
-Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh, El Salvador, Venezuela and Syria.
+Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh, El Salvador, Venezuela, Syria and Kenya.
 
 This site hosts some of my projects: 
 
@@ -68,9 +68,9 @@ Updated 1 June 2022.
 
 <br><br><br>
 
-### [5W Cleaning and Reporting Script -- Education Cluster, Venezuela](https://seanywng.github.io/5W/)
+### [5W Cleaning Script](https://seanywng.github.io/5W/cleaning_5ws_english) and [Reporting Script](https://seanywng.github.io/5W/reporting_5ws_english) -- Education Cluster, Venezuela
 
-[![./img/cleaning_and_reporting.png](./img/cleaning_and_reporting.png)](https://seanywng.github.io/5W/){width=50%}
+[![./img/cleaning_and_reporting.png](./img/cleaning_and_reporting.png)](https://seanywng.github.io/5W/cleaning_5ws_english){width=50%}
 
 <br><br><br>
 
