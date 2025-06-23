@@ -9,7 +9,7 @@ layout: default
 
 
 <a href = "https://github.com/seanywng">
-![](img/logo_sean.png)
+![](img/logo_sean_new.png)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[contact](mailto:seanywng@gmail.com)
@@ -37,6 +37,8 @@ This site hosts some of my projects:
 25 September 2024. 
 
 [![./img/lebanon_event_types_grey_months.gif](./img/lebanon_event_types_grey_months.gif)](https://seanywng.github.io/conflict_trends_public/lebanon){width=50%}
+
+<br><br><br>
 
 ### [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
 1 June 2022. 
