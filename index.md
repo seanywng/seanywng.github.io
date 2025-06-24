@@ -36,7 +36,7 @@ This site hosts some of my projects:
 ### [Lebanon Conflict Brief](https://seanywng.github.io/conflict_trends_public/lebanon)
 25 September 2024. 
 
-[![./img/lebanon_event_types_grey_months.gif](./img/lebanon_event_types_grey_months.gif)](https://seanywng.github.io/conflict_trends_public/lebanon){width=50%}
+[![./img/lebanon_event_types_grey_months.gif](./img/lebanon_event_types_grey_months.gif)](https://seanywng.github.io/conflict_trends_public/lebanon)
 
 <br><br><br>
 
