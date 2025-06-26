@@ -61,7 +61,7 @@ Updated 1 June 2022.
 
 <br><br><br>
 
-### [Multi-sector Beneficiary Allocations and Cash-based Response](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1) 
+### [Multi-sector Beneficiary Allocations and Cash-based Interventions in the Syria Cross-Border Response](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1) 
 19 May 2023
 
 [![./img/skew_tree.png](./img/skew_tree.png)](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1){width=50%}
@@ -78,9 +78,9 @@ Updated 1 June 2022.
 
 [![./img/cleaning_and_reporting.png](./img/cleaning_and_reporting.png)](https://seanywng.github.io/5W/cleaning_5ws_english){width=50%}
 
-<br><br><br>
+<br><br><br><br><br>
 
-And some links to past work (only PDFs available): 
+### And some links to past work (only PDFs available): 
 
 ### [A New Index of Refugee Protection 2018 -- a discussion note with Aldo Benini](http://aldo-benini.org/Level2/HumanitData/Benini_Ng__A_New_Protection_Index__180806.pdf)
 
