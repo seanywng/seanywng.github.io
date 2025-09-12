@@ -40,7 +40,7 @@ This site hosts some of my projects:
 
 <br><br><br>
 
-### [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
+### [Myanmar Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
 1 June 2022. 
 
 [![./img/township_prioritisation.png](./img/township_prioritisation.png)](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/){width=50%}
