@@ -40,6 +40,14 @@ This site hosts some of my projects:
 
 <br><br><br>
 
+### [Asia-Pacific Conflict Trends](https://seanywng.github.io/conflict_trends_public/)
+30 August 2024. 
+
+[![./img/conflict_trends_asia_pacific.png](./img/conflict_trends_asia_pacific.png)](https://seanywng.github.io/conflict_trends_public)
+
+<br><br><br>
+
+
 ### [Myanmar Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
 1 June 2022. 
 
