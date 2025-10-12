@@ -10,7 +10,7 @@ title: PAIN RELIEF
 <div class="col-sm-3">
 
 
-<a href = "https://github.com/seanywng">
+<a href = "https://wa.me/601137797582?text=I%20want%20to%20book%20a%20massage">
 ![](img//pain_relief/massage2.jpg)
 
 [![./img//pain_relief/WhatsAppButtonGreenSmall.png](./img//pain_relief/WhatsAppButtonGreenSmall.png)](https://wa.me/601137797582?text=I%20want%20to%20book%20a%20massage)
