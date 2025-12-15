@@ -1,6 +1,6 @@
 title: 'Sean Ng'
 description: "Personal website"
-logo: 'https://https://seanywng.github.io/sn_public/img/logo_sean.png'
+logo: 'https://raw.githubusercontent.com/seanywng/seanywng.github.io/master/img/logo_sean_new.png'
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
