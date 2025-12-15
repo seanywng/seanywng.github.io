@@ -4,14 +4,11 @@ title: Sean Ng
 ---
 
 
-
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-3">
 
-
 <a href = "https://github.com/seanywng">
 ![](img/logo_sean_new.png)
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[contact](mailto:seanywng@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github](https://github.com/seanywng)
